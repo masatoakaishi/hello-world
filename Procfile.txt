@@ -1,1 +1,1 @@
-web: gunicorn apl_name : test05 --log-file -
+web: gunicorn test05.py --log-file -
